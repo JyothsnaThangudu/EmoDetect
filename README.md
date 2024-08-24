@@ -16,8 +16,8 @@
 - **Image Processing**: OpenCV
 - **Machine Learning Models**: Logistic Regression, Support Vector Machines, Random Forest
 - **Deep Learning**: Deep Neural Networks for face and emotion recognition
-- **Database**: SQLite (or any preferred database)
-- **Deployment**: Deployed on (mention your hosting platform here)
+- **Database**: SQLite
+- **Deployment**: Deployed on
 
 ## Installation and Setup
 
