@@ -1,6 +1,6 @@
-# VisageDetect
+# EmoDetect
 
-**VisageDetect** is an end-to-end computer vision project that integrates machine learning for face and emotion recognition. This web application allows users to upload a photo, processes the image, and detects emotions using deep learning techniques. The system is built using the Django framework and incorporates several advanced machine learning algorithms.
+**EmoDetect** is an end-to-end computer vision project that integrates machine learning for face and emotion recognition. This web application allows users to upload a photo, processes the image, and detects emotions using deep learning techniques. The system is built using the Django framework and incorporates several advanced machine learning algorithms.
 
 ## Features
 
